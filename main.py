@@ -87,7 +87,7 @@ def fetch_required_info(url_list_current_page):
 
 
 
-#Part-2- Functions:
+#Part-2- Defining Required Functions:
 
 def scrape_manufacturer(soup2):
     global PRODUCT_MANUFACTURER_LIST
